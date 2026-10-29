@@ -1,0 +1,31 @@
+id,teema,tase,kysimus,vastus
+1,Grammatika,A1,Kuidas pöörata tegusõna „olema“ olevikus?,"mina olen, sina oled, tema on, meie oleme, teie olete, nemad on. Näide: Ma olen tudeng."
+2,Grammatika,A1,Kuidas pöörata tegusõna „elama“ olevikus?,"ma elan, sa elad, ta elab, me elame, te elate, nad elavad. Näide: Me elame Tartus."
+3,Grammatika,A1,Kuidas moodustada eitust olevikus?,"Eitus on „ei“ + tegusõna tüvi ilma pöördelõputa: ma ei ela, sa ei ela, nad ei ela. Näide: Ma ei räägi soome keelt."
+4,Grammatika,A1,Mis on sõna „maja“ mitmuse nimetav?,"majad. Mitmuse nimetava tunnus on -d: raamat, raamatud; laud, lauad."
+5,Grammatika,A2,Mis on sõna „raamat“ omastav ja osastav kääne?,Omastav: raamatu (raamatu kaas). Osastav: raamatut (ma loen raamatut).
+6,Grammatika,A2,Millal kasutada sihitisena osastavat käänet?,"Kui tegevus on pooleli või hulk on määramata: Ma loen raamatut. Ma joon vett. Kui tegevus on lõpetatud, on sihitis omastavas: Ma lugesin raamatu läbi."
+7,Grammatika,A2,Kuidas öelda „in the house“ ja „into the house“?,in the house = majas (seesütlev). into the house = majja või majasse (sisseütlev). out of the house = majast (seestütlev).
+8,Grammatika,A2,"Mis vahe on sõnadel „laual“, „lauale“ ja „laualt“?","laual = on the table, lauale = onto the table, laualt = off the table. Näide: Pane tass lauale."
+9,Grammatika,A2,Kuidas pöörata tegusõna „tegema“ lihtminevikus?,"ma tegin, sa tegid, ta tegi, me tegime, te tegite, nad tegid. Näide: Eile ma tegin kodutööd."
+10,Grammatika,A2,Kuidas öelda „I have a car“?,Mul on auto. Omamist väljendatakse alalütleva käändega (mul = minul) ja tegusõnaga „olema“. Eitus: Mul ei ole autot.
+11,Grammatika,A2,Mis on tegusõna „lugema“ ma- ja da-tegevusnimi?,ma-tegevusnimi: lugema (Ma hakkan lugema). da-tegevusnimi: lugeda (Mulle meeldib lugeda).
+12,Grammatika,A1,"Kuidas küsida küsimust, millele vastatakse jah või ei?","Pane lause algusse „kas“: Kas sa räägid eesti keelt? Vastus: Jah, räägin. või Ei, ma ei räägi."
+13,Sõnavara,A1,Kuidas on eesti keeles nädalapäevad?,"esmaspäev, teisipäev, kolmapäev, neljapäev, reede, laupäev, pühapäev. Nädalapäevad kirjutatakse väikese tähega."
+14,Sõnavara,A1,Kuidas loendada ühest kümneni?,"üks, kaks, kolm, neli, viis, kuus, seitse, kaheksa, üheksa, kümme."
+15,Sõnavara,A1,Kuidas on eesti keeles põhivärvid?,"punane (red), sinine (blue), roheline (green), kollane (yellow), must (black), valge (white)."
+16,Sõnavara,A1,Mida tähendavad sõnad „aitäh“ ja „palun“?,"aitäh = thank you. palun = please, you are welcome või here you are. Näide: Üks kohv, palun. Aitäh!"
+17,Sõnavara,A2,Mis vahe on tegusõnadel „minema“ ja „sõitma“?,"minema = to go (üldiselt, ka jalgsi). sõitma = to travel by vehicle. Näide: Ma lähen poodi. Ma sõidan bussiga tööle."
+18,Sõnavara,A2,Kuidas küsida poes hinda?,Kui palju see maksab? või Mis see maksab? Vastus: See maksab kolm eurot.
+19,Sõnavara,A2,"Kuidas on toidupoes leib, piim, juust ja munad?","leib (tume rukkileib), sai (valge leib), piim, juust, munad. Näide: Ostan leiba ja piima."
+20,Sõnavara,A2,Kuidas öelda kellaaega 7.30?,"Kell on pool kaheksa. Eesti keeles öeldakse „pool“ järgmise täistunni ees: 7.30 = pool kaheksa, 9.30 = pool kümme."
+21,Sõnavara,A2,Mida tähendavad sõnad „tööandja“ ja „töötaja“?,tööandja = employer (töö + andja). töötaja = employee. Näide: Minu tööandja on väike ettevõte.
+22,Sõnavara,A1,Kuidas öelda eesti keeles „It is cold today“?,"Täna on külm. Teised ilmasõnad: soe (warm), sajab vihma (it is raining), tuuline (windy)."
+23,Vestlusharjutus,A1,Kuidas ennast tutvustada?,Tere! Minu nimi on Anna. Ma olen pärit Ukrainast. Ma elan Tallinnas ja töötan kokana.
+24,Vestlusharjutus,A1,"Kuidas küsida, kust keegi pärit on?",Kust sa pärit oled? Viisakamalt: Kust te pärit olete? Vastus: Ma olen pärit Indiast.
+25,Vestlusharjutus,A1,Millal pöörduda „sina“ ja millal „teie“?,"teie on viisakas pöördumine võõrale, vanemale inimesele ja ametlikus olukorras; teie on ka mitmus. sina sobib sõbrale ja sageli ka kolleegile."
+26,Vestlusharjutus,A2,Kuidas tellida kohvikus kohvi?,"Üks kohv, palun. või Ma sooviksin ühte kohvi piimaga. Kas saab kaardiga maksta?"
+27,Vestlusharjutus,A2,Kuidas registreeruda telefonis arsti vastuvõtule?,"Tere, ma sooviksin registreeruda perearsti vastuvõtule. Millal oleks vaba aeg? Minu nimi on ..."
+28,Vestlusharjutus,A1,"Kuidas paluda, et teine räägiks aeglasemalt?",Palun rääkige aeglasemalt. Kas te saaksite seda korrata? Ma ei saanud aru.
+29,Vestlusharjutus,A2,Kuidas küsida teed bussipeatusesse?,"Vabandust, kus on lähim bussipeatus? Kuidas ma saan kesklinna? Vastus: Minge otse ja siis paremale."
+30,Vestlusharjutus,A1,Kuidas vastata küsimusele „Kuidas läheb?“,"Hästi, aitäh! või Normaalselt. või Pole viga. Ja sinul?"
